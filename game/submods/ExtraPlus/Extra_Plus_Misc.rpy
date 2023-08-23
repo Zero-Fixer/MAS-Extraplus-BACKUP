@@ -600,7 +600,7 @@ label extra_restore_title:
 
 label github_submod:
     show monika idle at t11
-    $ renpy.run(OpenURL("https://github.com/zer0fixer/MAS-Extraplus"))
+    $ renpy.run(OpenURL("https://github.com/Zero-Fixer/MAS-Extraplus-EN"))
     jump close_extraplus
     return
 
