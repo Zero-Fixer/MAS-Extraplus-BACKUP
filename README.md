@@ -1,4 +1,4 @@
-<h1 align="center"> Extra Plus</h1>
+![image(1)](https://github.com/Zero-Fixer/MAS-Extraplus-EN/assets/142945683/7c6ff8b0-e7e7-4512-8df8-d28d9c1942b5)
 
 <p align="center">
 <a href="https://github.com/zer0fixer/MAS-Extraplus/releases/latest">
