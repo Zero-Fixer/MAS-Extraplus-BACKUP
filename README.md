@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/zer0fixer/MAS-Extraplus/releases/latest">
+<a href="https://github.com/Zero-Fixer/MAS-Extraplus-EN/releases/latest">
   <img alt="Latest release" src="https://img.shields.io/github/v/release/zer0fixer/MAS-Extraplus?style=for-the-badge&logo=appveyor">
 </a>
 </p>
