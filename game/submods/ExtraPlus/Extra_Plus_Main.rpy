@@ -19,8 +19,9 @@ init -989 python:
     if store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin"):
         store.sup_utils.SubmodUpdater(
             submod="Extra Plus",
-            user_name="zer0fixer",
-            repository_name="MAS-Extraplus",
+            user_name="Zero-Fixer",
+            repository_name="MAS-Extraplus-EN",
+            update_dir="",
             redirected_files=(
                 "README.md"
             )
