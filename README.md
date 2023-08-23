@@ -1,4 +1,6 @@
-![image(1)](https://github.com/Zero-Fixer/MAS-Extraplus-EN/assets/142945683/7c6ff8b0-e7e7-4512-8df8-d28d9c1942b5)
+<p align="center">
+  <img src="https://github.com/Zero-Fixer/MAS-Extraplus-EN/assets/142945683/0276af8f-5de5-43b6-b581-d2b9edf1a889">
+</p>
 
 <p align="center">
 <a href="https://github.com/zer0fixer/MAS-Extraplus/releases/latest">
@@ -9,7 +11,8 @@
 A submod that adds small additions to Monika After Story (MAS), something that should be clarified is that I have not yet been reviewed by the developers so it is possible that bugs may occur. But it will take me enough time to make everything functional, there is no release date yet.
 
 <p align="center">
-  <img src="https://github.com/zer0fixer/resource-repository/blob/main/Images/Moni_chill.png"></p>
+  <img src="https://github.com/Zero-Fixer/MAS-Extraplus-EN/assets/142945683/6e019e08-b9f2-4ec4-8d3c-5de63118f84b">
+</p>
   
 ## Features
 - Minigames
@@ -23,7 +26,8 @@ A submod that adds small additions to Monika After Story (MAS), something that s
 2. Copy the "game/" folder and paste it into your Monika After Story folder.
 
 <p align="center">
-  <img src="https://github.com/zer0fixer/resource-repository/blob/main/Images/MAS_screenshot.png"></p>
+
+  <img src="https://github.com/Zero-Fixer/MAS-Extraplus-EN/assets/142945683/f20ad5e8-19e1-4d99-8e66-bdc9b3a97d06"></p>
 
 ## Does the submod not work?
 - **If the submod does not work (1.0.5 or higher):** If you see the message "The files are not available...," simply reinstall the submod as some files may not have been found.
