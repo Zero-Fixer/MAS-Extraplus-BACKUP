@@ -51,5 +51,5 @@ If this submod is edited by another person and sends that modification to the co
 ## Social Networks
 <a href="https://www.reddit.com/user/UnderstandingAny7135">
 <img alt="reddit" src="https://cdn-icons-png.flaticon.com/512/2111/2111459.png" width="100">
-<a href="https://www.youtube.com/channel/UCLJcpsS6XWEPuV5vsq6TykA">
+<a href="https://www.youtube.com/channel/UCa64hx69-4WK6HyWlfgqqBw">
 <img alt="youtube" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579609-yumminkysocialmedia08_83079.png" width="100">
